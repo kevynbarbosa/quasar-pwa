@@ -1,4 +1,6 @@
 {
+  "name": "Kevyn pwa test",
+  "short_name": "KPWAT",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#027be3",
