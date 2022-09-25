@@ -41,9 +41,6 @@ register(process.env.SERVICE_WORKER_FILE, {
       icon: "mdi-cloud-download-outline",
       closeBtn: "Atualizar",
       timeout: 10000,
-      onDismiss() {
-        location.reload(true);
-      },
     });
   },
 
