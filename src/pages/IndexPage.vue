@@ -5,7 +5,7 @@
       src="~assets/quasar-logo-vertical.svg"
       style="width: 200px; height: 200px"
     />
-    hello 12
+    hello 123
   </q-page>
 </template>
 
