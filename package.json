@@ -1,8 +1,8 @@
 {
-  "name": "pwa-test",
+  "name": "pwa-edited",
   "version": "0.0.1",
   "description": "A Quasar Project",
-  "productName": "Quasar App",
+  "productName": "Quasar App Edited",
   "author": "Kevyn Barbosa <kevynbarbosa1@gmail.com>",
   "private": true,
   "scripts": {
